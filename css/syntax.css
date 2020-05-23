@@ -1,9 +1,14 @@
-/* TARGETING ELEMENTS / TAGS */
-span{
-    color: blue;
-
+body{
+    color: red;
 }
 
-span{
-    color: red;
+div{
+    color: blue;
+}
+p{
+    color: green;
+}
+a{
+    color: yellow;
+    text-decoration: underline;
 }
