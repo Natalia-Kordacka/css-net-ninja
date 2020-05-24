@@ -1,15 +1,3 @@
-li:nth-child(1), li:nth-child(7){
-    font-weight: bold;
-}
-
-li:nth-child(even){
-    background-color: pink;
-}
-
-li:nth-child(odd){
-    background-color: lightslategray;
-}
-
-li:nth-child(3n+2){
-    color: yellow;
+article:nth-of-type(2n+1){
+        background: grey;
 }
