@@ -1,9 +1,7 @@
 .static-width{
     width: 800px;
     height: 800px;
+    background: url(https://cdn.akc.org/content/article-body-image/funny-basset_hound_yawning.jpg) no-repeat center;
     background-color: #606060;
-    background-image: url(https://cdn.akc.org/content/article-body-image/funny-basset_hound_yawning.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: 700px;
+    background-size: 600px;
 }
